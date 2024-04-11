@@ -57,7 +57,12 @@ sudo python3 main.py -s 192.168.1.0/24 -t 10 -ps 20 -pe 80
 ## **Requirements**
 
 Python 3.x  
-scapy library (can be installed with pip install scapy)  
+ ```js
+git clone https://github.com/Tw1wX/scapyMaison.git
+cd scapyMaison
+pip install -r requirements.txt
+sudo python3 main.py -h
+```
 
 ## **Notes**  
 Run the script with superuser privileges (sudo) to ensure proper execution and access to network functionalities.
