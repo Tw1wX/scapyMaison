@@ -67,6 +67,10 @@ sudo python3 main.py -h
 ## **Notes**  
 Run the script with superuser privileges (sudo) to ensure proper execution and access to network functionalities.
 
+
+## **Warning**  
+This script is intended for educational and authorized testing purposes only. Unauthorized scanning of networks is illegal and unethical. The author of this script is not responsible for any misuse or damage caused by this program. By using this script, you accept full responsibility for your actions and any consequences that may result from its use. Always obtain proper authorization before scanning any network.
+
 ## 🙇 Author
 #### TwiwX
 - Github: [@TwiwX](https://github.com/Tw1wX)
