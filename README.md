@@ -1,6 +1,5 @@
 # <p align="center">ScapyMaison</p>
   
-## **Python Network Scanner**
 
 ## **Description**
 
