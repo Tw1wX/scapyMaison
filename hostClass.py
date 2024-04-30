@@ -1,3 +1,4 @@
+### class for the Up host
 class HostUp:
     def __init__(self, ip:str, mac_addr: str = None, os: str = None):
         self.ip = ip
