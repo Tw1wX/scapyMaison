@@ -8,7 +8,7 @@ from scapy.all import *
 from scapy.layers.inet import *
 from hostClass import HostUp
 
-# don't display warning scapy
+# don't display warning scapy.
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
 
 
